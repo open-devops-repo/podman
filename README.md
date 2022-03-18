@@ -4,7 +4,7 @@ podman-docker-image
 Introduction
 ------------
 This projects mirrows the Docker image ```docker://quay.io/podman/stable:latest```
-and republishes it on Dockerhub under ```opendevopsrepo/podman/stable:latest```.
+and republishes it on Dockerhub under ```opendevopsrepo/podman-stable:latest```.
 
 
 How to fork this repo and its automatic CI builds
